@@ -1,5 +1,5 @@
 # multilingual-video-grounding
-Non-English language translation using video as latent space.
+Multimodal Video-Grounded Translation (Vision-Language)
 
 ## Slides (Click on image to view all slides)
 - Use video as the latent space to translate between two semantically distant non-English languages, without using English as a bridge.
